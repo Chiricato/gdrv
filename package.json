@@ -1,5 +1,5 @@
 {
-  "name": "gdrvt",
+  "name": "tangdrv",
   "version": "1.0.2",
   "description": "Google Drive Interface",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Chiricato/gdrv.git"
   },
-  "author": "Joe Hitchens <joe@sleepless.com>",
+  "author": "Chiricato",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Chiricato/gdrv/issues"
