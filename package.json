@@ -1,5 +1,5 @@
 {
-  "name": "gdrv",
+  "name": "gdrvt",
   "version": "1.0.2",
   "description": "Google Drive Interface",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sleeplessinc/gdrv.git"
+    "url": "git+https://github.com/Chiricato/gdrv.git"
   },
   "author": "Joe Hitchens <joe@sleepless.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sleeplessinc/gdrv/issues"
+    "url": "https://github.com/Chiricato/gdrv/issues"
   },
-  "homepage": "https://github.com/sleeplessinc/gdrv#readme",
+  "homepage": "https://github.com/Chiricato/gdrv#readme",
   "dependencies": {
     "cache": "^2.1.0",
     "google-docs-fetch": "0.0.3",
