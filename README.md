@@ -4,11 +4,11 @@ REST API for accessing Google Drive documents.
 
 ## Install
 
-	npm install gdrv
+	npm install tangdrv
 
 ## Node.js
 
-	gdrv = require("gdrv");
+	gdrv = require("tangdrv");
 	document = gdrv("document");
 	document.get("__KEY_ID__", function(err, html) {
 		if(!err) {
